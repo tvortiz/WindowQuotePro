@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1ee1b61-00e8-4b95-8a1a-2f76efcebf07": {
+      "ProjectGuid": "a1ee1b61-00e8-4b95-8a1a-2f76efcebf07",
+      "DisplayName": "WindowQuotePro",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

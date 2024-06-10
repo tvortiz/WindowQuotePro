@@ -1,0 +1,3 @@
+﻿  Windows_Quote_List.cpp
+C:\Users\Tiago\source\repos\WindowQuotePro\WindowQuotePro\Windows_Quote_List.cpp(130,9): warning C4060: switch statement contains no 'case' or 'default' labels
+  WindowQuotePro.vcxproj -> C:\Users\Tiago\source\repos\WindowQuotePro\x64\Debug\WindowQuotePro.exe
